@@ -1,3 +1,7 @@
+**#Note**
+
+This assignment was given to me by one of the companies where I interviewed.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
